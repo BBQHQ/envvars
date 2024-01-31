@@ -40,3 +40,13 @@ Run the script:
 python loadvars.py
 ```
 The script will print the values of `datavar1` and `datavar2`.
+
+## That's it, you're done!
+
+You did a great job!
+
+Feel free to explore the code and make any modifications as needed...
+
+## Created by BBQHQ
+
+This project was created and is maintained by [BBQHQ](https://github.com/BBQHQ). For any questions or suggestions, please feel free to reach out!
