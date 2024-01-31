@@ -1,6 +1,6 @@
 # import required modules
 import os
-# pip install python-dotenv
+# !pip install python-dotenv
 from dotenv import load_dotenv
 
 # load the .env file
