@@ -31,9 +31,9 @@ Navigate to the directory:
 ```bash
 cd envvars
 ```
-The `.env` file is already included in this example repository. It contains the environment variables datavar1 and datavar2. You can modify these values as needed. 
+The `.env` file is already included in this example repository. It contains the environment variables `datavar1` and `datavar2.` You can modify these values as needed. 
 
-**Note**: If you choose to modify the environemnt variables with sensitive information in your .env file, you should add the .env file to your .gitignore to prevent it from being committed to your repository.
+**Note**: If you choose to modify the environemnt variables with sensitive information in your `.env` file, you should add the `.env` file to your `.gitignore` to prevent it from being committed to your repository.
 
 Run the script:
 ```bash
