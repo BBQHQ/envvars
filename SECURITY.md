@@ -1,8 +1,8 @@
-# Minimal Security Policy for envvars
+# Security Policy for envvars
 
 ## Reporting Vulnerabilities
 
-If you discover a security issue, please report it directly to [Contact Email/Method] with a brief description. Do not disclose it publicly until we've addressed it.
+If you discover a security issue, please report it directly to bbqhq@outlook.com with a brief description. Do not disclose it publicly until we've addressed it.
 
 ## Handling Reports
 
