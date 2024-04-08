@@ -23,6 +23,32 @@ pip install python-dotenv
 ```
 
 ## Usage
+### For Users New to Git:
+
+If you're new to Git, don't worry! Here are two easy ways to get started with this project:
+
+1. **Cloning with Git or GitHub Desktop**:
+   - If you prefer using Git on the command line, follow these steps:
+     1. Open your terminal.
+     2. Run `git clone [repository URL]` to clone the repository to your local machine.
+   - Alternatively, if you prefer a graphical interface, you can use GitHub Desktop:
+     1. Download and install [GitHub Desktop](https://desktop.github.com/).
+     2. Open GitHub Desktop and click on 'File' > 'Clone Repository'.
+     3. Select 'URL' and paste the repository URL, then click 'Clone'.
+   These methods will create a local copy of the project on your computer for you to explore and modify.
+
+### For Contributors:
+
+If you'd like to contribute to this project, we encourage you to fork the repository and submit pull requests with your changes. Here's how you can get started:
+
+1. **Forking the Repository**:
+   1. Click on the 'Fork' button at the top right corner of this repository's page.
+   2. This will create a copy of the repository under your GitHub account.
+   3. Make any changes or improvements to your forked copy.
+   4. When you're ready, submit a pull request to have your changes reviewed and potentially merged into the main project.
+
+Feel free to choose the method that suits you best, and thank you for your interest in contributing!
+
 Clone this repository:
 ```bash
 git clone https://github.com/BBQHQ/envvars.git
