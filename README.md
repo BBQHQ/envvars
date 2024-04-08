@@ -30,7 +30,7 @@ If you're new to Git, don't worry! Here are two easy ways to get started with th
 1. **Cloning with Git or GitHub Desktop**:
    - If you prefer using Git on the command line, follow these steps:
      1. Open your terminal.
-     2. Run `git clone [repository URL]` to clone the repository to your local machine.
+     2. Run `git clone https://github.com/BBQHQ/envvars` to clone the repository to your local machine.
    - Alternatively, if you prefer a graphical interface, you can use GitHub Desktop:
      1. Download and install [GitHub Desktop](https://desktop.github.com/).
      2. Open GitHub Desktop and click on 'File' > 'Clone Repository'.
@@ -49,14 +49,7 @@ If you'd like to contribute to this project, we encourage you to fork the reposi
 
 Feel free to choose the method that suits you best, and thank you for your interest in contributing!
 
-Clone this repository:
-```bash
-git clone https://github.com/BBQHQ/envvars.git
-```
-Navigate to the directory:
-```bash
-cd envvars
-```
+
 The `.env` file is already included in this example repository. It contains the environment variables `datavar1` and `datavar2`. You can modify these values as needed. 
 
 **Note**: If you choose to modify the environemnt variables with sensitive information in your `.env` file, you should add the `.env` file to your `.gitignore` to prevent it from being committed to your repository.
